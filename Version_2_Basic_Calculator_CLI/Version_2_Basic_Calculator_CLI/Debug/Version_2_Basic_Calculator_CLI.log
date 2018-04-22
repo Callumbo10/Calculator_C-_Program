@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Version_2_Basic_Calculator_CLI.cpp
+  Calculator.cpp
+e:\ct4021 ass2\development_versions\version_2_basic_calculator_cli\version_2_basic_calculator_cli\calculator.cpp(127): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+e:\ct4021 ass2\development_versions\version_2_basic_calculator_cli\version_2_basic_calculator_cli\calculator.cpp(90): warning C4715: 'Calculator::Calculate': not all control paths return a value
+  Version_2_Basic_Calculator_CLI.vcxproj -> E:\CT4021 Ass2\Development_Versions\Version_2_Basic_Calculator_CLI\Debug\Version_2_Basic_Calculator_CLI.exe
