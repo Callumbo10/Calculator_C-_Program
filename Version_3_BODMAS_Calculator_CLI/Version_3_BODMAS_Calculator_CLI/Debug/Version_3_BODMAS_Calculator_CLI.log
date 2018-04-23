@@ -1,0 +1,4 @@
+﻿  Version_3_BODMAS_Calculator_CLI.cpp
+e:\ct4021 ass2\development_versions\version_3_bodmas_calculator_cli\version_3_bodmas_calculator_cli\version_3_bodmas_calculator_cli.cpp(193): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ct4021 ass2\development_versions\version_3_bodmas_calculator_cli\version_3_bodmas_calculator_cli\version_3_bodmas_calculator_cli.cpp(229): warning C4018: '<': signed/unsigned mismatch
+  Version_3_BODMAS_Calculator_CLI.vcxproj -> E:\CT4021 Ass2\Development_Versions\Version_3_BODMAS_Calculator_CLI\Debug\Version_3_BODMAS_Calculator_CLI.exe
