@@ -1,0 +1,3 @@
+﻿  Version_4_Number_Format_Conversions_CLI.cpp
+e:\ct4021 ass2\development_versions\version_4_number_format_conversions_cli\version_4_number_format_conversions_cli\version_4_number_format_conversions_cli.cpp(84): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Version_4_Number_Format_Conversions_CLI.vcxproj -> E:\CT4021 Ass2\Development_Versions\Version_4_Number_Format_Conversions_CLI\Debug\Version_4_Number_Format_Conversions_CLI.exe
