@@ -1,0 +1,6 @@
+1000110 in binary = 70 in decimal
+58 in decimal = 3a in hexadecimal
+21 in decimal = 10101 in binary
+Calculation: 1 + 5 = 6
+Calculation: 22 - 7 = 15
+22 in binary = 0 in decimal
